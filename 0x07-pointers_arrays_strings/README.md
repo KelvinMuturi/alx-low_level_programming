@@ -1,1 +1,1 @@
-Evene more pointers and arrays
+another try for pointers arrays and strings
