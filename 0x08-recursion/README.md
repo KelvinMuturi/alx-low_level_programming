@@ -1,0 +1,1 @@
+Directory on projects on recursion. Recursion is a routine or a function that calls itself directly or indirectly. there are four types of recursion. They include direct recursion, indirect recursion, tail recursion, and non-tail recursion.
